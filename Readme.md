@@ -1,5 +1,8 @@
 ## Primeros ejemplos de typescript sin escribir tipos
 
+Importante TypeScript funciona solo en la compilación pero en tiempo de ejecución es JavaScript.
+No ahorra codigo.
+
 ```ts
 const a = 1;
 const b = 2;
